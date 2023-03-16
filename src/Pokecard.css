@@ -1,0 +1,17 @@
+.Pokecard-div {
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(179, 179, 179);
+    margin: 30px;
+    padding-top: 10px;
+    color: black
+}
+
+.Pokecard-h3 {
+    color: blue
+}
+
+.Pokecard-img {
+    width: 100px;
+}
